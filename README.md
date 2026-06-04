@@ -181,7 +181,7 @@ Based on the analysis, the following recommendations were identified:
 
 Insert dashboard screenshot below:
 
-![Dashboard]([Dashboard/logistics_dashboard.png](https://github.com/harshpreetkohli/logistics-operations-analysis/blob/main/dashboard_preview.png))
+![Dashboard](dashboard_preview.png)
 
 ---
 
