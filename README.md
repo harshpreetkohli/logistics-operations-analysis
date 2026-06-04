@@ -179,7 +179,6 @@ Based on the analysis, the following recommendations were identified:
 
 ## Dashboard Preview
 
-Insert dashboard screenshot below:
 
 ![Dashboard](dashboard_preview.png)
 
